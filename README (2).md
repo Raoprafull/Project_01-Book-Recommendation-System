@@ -2,7 +2,6 @@
 <h1 align="center">  Book recommendation system
  </h1>
 
-<h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> 
 <img src="https://assets.website-files.com/6141c89a3874c3702674a1c0/62b1a359a17ffc3c6aaf2d3a_memgraph-building-real-time-book-recommendations-for-bookworms-release-blog-cover.png" height="400px">
