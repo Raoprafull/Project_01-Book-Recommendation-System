@@ -1,7 +1,5 @@
 # Project_01-Book-Recommendation-System
 
-<h1 align="center">  Book recommendation system
- </h1>
 
 
 <p align="center"> 
