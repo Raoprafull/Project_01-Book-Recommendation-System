@@ -98,7 +98,10 @@ model to recommend books as per user ID.
 * **Feature Extraction** : Created new columns such as age_group by binning the 'Age' column and extracted the country name from the 'Location' column  .
 * **Exploratory Data Analysis** : Performed Univariate, Bivariate, and Multivariate analysis with various graphs and plots to better understand the distribution of features and their relationships.
 * **Implementation of various Recommender System approaches** :This project explores various recommendation algorithms, including Popularity Based Filtering, Collaborative Filtering based Recommendation System–(User-User based), and Collaborative Filtering based Recommendation System–(Item-Item Based).
-* **Evaluation metrics** : Model evaluation metrics is important to distinguish the best collaborative filtering – either by memory based or model based approach.  
+* **Evaluation metrics** : Model evaluation metrics is important to distinguish the best collaborative filtering – either by memory based or model based approach.
+* **Deployment of the model** :After model building and model evaluation next import key point is deployment. We have done deployment of recommender system by using streamlit tool and spyder app.
+
+  
 
  
 
