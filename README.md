@@ -87,6 +87,10 @@ The programming language used in this project is Python . The following librarie
 * **NumPy**: For some math operations in predictions.
 * **Statsmodels**: For statistical computations
 * **Sklearn**:  For the purpose of analysis,prediction and evaluation.
+* **Streamlit**: For the purpose of deployment of the model to get recommendation as per user-id. 
+                       
+![image](https://github.com/Raoprafull/Project_01-Book-Recommendation-System/assets/159509211/88331d72-b43c-4112-9d00-4001096a258a)
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
