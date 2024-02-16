@@ -79,8 +79,8 @@ With an increasing amount of information on the internet and a considerable incr
 <h2>🛠️ Tools and Technologies used </h2>
 
 
-The programming language used in this project is Python . The following libraries were used for data analysis and data visualization and to build a classifier to predict the price range of mobile phones.
-
+The programming language used in this project is Python . The following libraries were used for data analysis and data visualization and to build a recommender
+model to recommend books as per user ID.
 * **Pandas** :  For loading the dataset and performing data wrangling
 * **Matplotlib**: For  data visualization.
 * **Seaborn**: For data visualization.
