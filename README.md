@@ -137,15 +137,11 @@ The approaches used in this project are:
 
 <h2> :bulb: Conclusion</h2>
 
-* The Lovely Bones: A Novel and Wild Animus are the two most read books.
-* Stephen King is the most popular book author based on the number of ratings.
-* Ballantine Books and Pocket are the top publishers based on the number of ratings that their books have received.
-* The majority of readers are between the ages of 25 and 40.
-* The majority of readers who have given the books ratings are from the United States and Canada.
-* Regardless of the age group, The Lovely Bones and Wild Animus appear on lists of the top-rated books.
-* We have built five types of recommendation systems and did evaluation for one of them.
-* In the case of Memory-based approach, the Cosine similarity-based KNN performs better at recommending books that are similar than the Euclidean distance-based KNN.
-* After evaluation for Collaborative-Model Based Recommendation system, we got a recall@5 of 30% and recall@10 of 41%.
+* Starting with loading the data so far we have done data cleaning and feature engineering, null values treatment, some univariate analysis. Collaborative Filtering was among best method to approach recommendation system for this project. Model based approach like Latent Factor Model called SVD and Memory based approach with cosine similarity was model building approach. The comparison of RMSE score between model and memory based approach was quite different. Model Evaluation metrics shows better recommendation with model based CF. The RMSE score varies in both the model but optimal model we can find is in SVD. 
+* Model evaluation metrics is important to distinguish the best collaborative filtering – either by memory based or model based approach. The memory based approach – Cosine Similarity shows RMSE score for item based CF is 8.07 and for user based CF it shows 8.06. The score is slightly similar. Model based collaborative filtering made it better score with Latent Factor Model called SVD. The score improved to 1.49 for both SVD RMSE and accuracy score.
+* SVD with RMSE score is the best model with 1.49 for this dataset. This performance could be due to various reasons : pattern of data, different model give different accuracy score, business understanding, machine learning approach etc. Finally Singular Value Decomposition (SVD) is an optimal model for book recommendation system of this dataset.
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
