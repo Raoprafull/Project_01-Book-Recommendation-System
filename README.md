@@ -87,6 +87,7 @@ The programming language used in this project is Python . The following librarie
 * **NumPy**: For some math operations in predictions.
 * **Statsmodels**: For statistical computations
 * **Sklearn**:  For the purpose of analysis,prediction and evaluation.
+* **Streamlit**: For the purpose of deployment of the model to get recommendation as per user ID.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
