@@ -125,8 +125,8 @@ Collaborative Filitering Based recommendation system
 
    - Memory Based approach - KNN (Cosine similarity between items)
    - Model Based approach- SVD based recommendation system (prediction of ratings)
-     1.User-User based
-     2.Item-Item based
+     - User-User based
+     - Item-Item based
 
 <h2> :bulb: Conclusion</h2>
 
