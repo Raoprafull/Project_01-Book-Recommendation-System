@@ -99,7 +99,7 @@ model to recommend books as per user ID.
 * **Exploratory Data Analysis** : Performed Univariate, Bivariate, and Multivariate analysis with various graphs and plots to better understand the distribution of features and their relationships.
 * **Implementation of various Recommender System approaches** :This project explores various recommendation algorithms, including Popularity Based Filtering, Collaborative Filtering based Recommendation System–(User-User based), and Collaborative Filtering based Recommendation System–(Item-Item Based).
 * **Evaluation metrics** : Model evaluation metrics is important to distinguish the best collaborative filtering – either by memory based or model based approach.
-* **Deployment of the model** :After model building and model evaluation next import key point is deployment. We have done deployment of recommender system by using streamlit tool and spyder app.
+* **Deployment of the model** : After model building and model evaluation next import key point is deployment. We have done deployment of recommender system by using streamlit tool and spyder app.
 Following links are used to shows us the interface of the model and get recommendation of books as per user –id.
  Local URL: http://localhost:8501
  Network URL: http://192.168.208.127:8501
@@ -117,22 +117,16 @@ Following links are used to shows us the interface of the model and get recommen
 <h2>💻 Approaches used</h2>
 
 The approaches used in this project are:
-
- 1. Popularity Based recommendation system
  
- It is a type of recommendation system that bases choices on factors like popularity and/or current trends. These systems determine which item (in this case,books) are in the trending list or are the most well-liked by users and then directly recommend them.
- 
-   - Weighted average rating approach
-   - Country-wise approach
-   - Author-wise approach
-   
- 2. Collaborative Filitering Based recommendation system
+Collaborative Filitering Based recommendation system
  
  The Collaborative Filtering approach first investigates the user’s behaviors, interests, and searches for similar users.  It recommends items to users based on the ratings of similar users on various items and by predicting the missing ratings of the items . CF is broadly classified as memory-based and model-based CF.
 
 
-   - Memory Based approach - KNN (similarity between items)
+   - Memory Based approach - KNN (Cosine similarity between items)
    - Model Based approach- SVD based recommendation system (prediction of ratings)
+     1.User-User based
+     2.Item-Item based
 
 <h2> :bulb: Conclusion</h2>
 
