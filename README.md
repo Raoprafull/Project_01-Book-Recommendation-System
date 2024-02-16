@@ -117,8 +117,15 @@ Following links are used to shows us the interface of the model and get recommen
 <h2>💻 Approaches used</h2>
 
 The approaches used in this project are:
+
+1. Popularity Based recommendation system
  
-Collaborative Filitering Based recommendation system
+ It is a type of recommendation system that bases choices on factors like popularity and/or current trends. These systems determine which item (in this case,books) are in the trending list or are the most well-liked by users and then directly recommend them.
+ 
+   - Country-wise approach
+   - Author-wise approach
+ 
+2. Collaborative Filitering Based recommendation system
  
  The Collaborative Filtering approach first investigates the user’s behaviors, interests, and searches for similar users.  It recommends items to users based on the ratings of similar users on various items and by predicting the missing ratings of the items . CF is broadly classified as memory-based and model-based CF.
 
