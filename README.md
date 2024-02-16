@@ -100,6 +100,10 @@ model to recommend books as per user ID.
 * **Implementation of various Recommender System approaches** :This project explores various recommendation algorithms, including Popularity Based Filtering, Collaborative Filtering based Recommendation System–(User-User based), and Collaborative Filtering based Recommendation System–(Item-Item Based).
 * **Evaluation metrics** : Model evaluation metrics is important to distinguish the best collaborative filtering – either by memory based or model based approach.
 * **Deployment of the model** :After model building and model evaluation next import key point is deployment. We have done deployment of recommender system by using streamlit tool and spyder app.
+Following links are used to shows us the interface of the model and get recommendation of books as per user –id.
+ Local URL: http://localhost:8501
+ Network URL: http://192.168.208.127:8501
+
 
   
 
